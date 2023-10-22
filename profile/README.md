@@ -1,12 +1,19 @@
-## Hi there 👋
+# Welcome to MegaMask👋
+![alt text](http://url/to/img.png)
+## Who Are We
+MegaMask - Money Enables Growth, Amplifying Multi-chain Advancements, Simplifying Knowledge.
 
-<!--
+## Problem Identified
+Businesses, Freelancers, Creators, and DAOs have to send over their wallet addresses to another party and check manually, whether they have received payment or not. Furthermore, these payments are not tied to any particular invoice, making tracking transactions and accounting difficult.
 
-**Here are some ideas to get you started:**
+## Whats the different between web2 and web3 (payoneer)
+- Crosschain interoperability
+- Automatic swapping of crypto funds
+- Concept of storing funds in escrow to be used for other purposes
+    - I get 200 USDC, I want 50 USDC to go towards a contract that pays for other bills, the other contract is a smart account
+ 
+## Notabe features
+Account Abstraction: Through utilizing Cometh and Safe Account Abstraction Protocols, MegaMask provides a seamless onboarding experience for existing and new users in creating their wallets and signing transactions.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Gas fees: With account abstraction in place, gas fees are "sponsored" through smart contracts.
+
