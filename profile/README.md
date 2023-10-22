@@ -1,5 +1,5 @@
 # Welcome to MegaMask👋
-![alt text](http://url/to/img.png)
+![alt text](megamask.jpeg)
 ## Who Are We
 MegaMask - Money Enables Growth, Amplifying Multi-chain Advancements, Simplifying Knowledge.
 
